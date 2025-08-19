@@ -1,7 +1,7 @@
 # Assignment 0 Writeup
 
-**Name:** [Your name here]  
-**Date:** [Today's date]
+**Name:** [Christoper Llinas-Aviles]  
+**Date:** [August 19th, 2025, tuesday]
 
 ---
 
@@ -10,15 +10,15 @@ All answers can be found in the README.md file
 
 **1. What is the difference between Git and GitHub?**
 
-[Your answer here]
+[Git hub is the place where people can store their projects that they made on git, and where they can distribute it to others.]
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-[Your answer here]
+[commiting is saving the changes you made, and pushing is sending those changes to the repository. They are important to make sure all changes are shown and saved.]
 
 **3. What is a repository and what does it contain?**
 
-[Your answer here]
+[repository is where all of our projects will be stored.]
 
 ---
 
