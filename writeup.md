@@ -26,7 +26,7 @@ All answers can be found in the README.md file
 
 **Link to your GitHub profile repository:** 
 
-[[Paste your profile repository link here: ((https://github.com/Bossmode248/Bossmode248))]
+[Paste your profile repository link here: [https://github.com/Bossmode248](url) ]
 
 ---
 
